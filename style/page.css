@@ -45,4 +45,12 @@
         }
     }
 
+    .destino_1,
+    .destino_2{
+        margin-bottom: 4.8rem;
+        li{
+            color: var(--accent-blue);
+        }
+    }
+
 }
