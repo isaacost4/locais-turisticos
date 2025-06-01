@@ -6,6 +6,8 @@
 
 body {
     font-size: 1.6rem;
+    padding: 8.8rem 8rem;
+    background:  var(--background-default);
 }
 
 img{
