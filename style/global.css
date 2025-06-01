@@ -7,3 +7,12 @@
 body {
     font-size: 1.6rem;
 }
+
+img{
+    width: 100%;
+}
+
+strong{
+    color: var(--text-headline);
+    text-transform:  uppercase;
+}
