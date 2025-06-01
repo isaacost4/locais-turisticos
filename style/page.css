@@ -1,4 +1,12 @@
 #page{ 
     max-width: 1120px;
     margin-inline: auto;
+
+    header{
+        img {
+            border-radius: 2.8rem;
+            margin-bottom: 2.4rem;
+            height: 66rem;
+        }
+    }
 }
